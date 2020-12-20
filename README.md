@@ -1,6 +1,6 @@
-![Image](./img/dio.png?raw=true)<br>
-<h2>Bootcamp everis FullStack Developer 
-![Image](./img/everis.jpg?raw=true) 
+![Image](./img/dio.png?raw=true)
+<h2>Bootcamp everis FullStack Developer
+![Image](./img/everis.jpg?raw=true)
 
 ![Image](./img/api.jpg?raw=true)  Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot</h2>
 
